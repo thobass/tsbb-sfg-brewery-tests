@@ -157,3 +157,4 @@ Desktop.ini
 /target/surefire-reports/TEST-guru.springframework.sfgrestdocsexample.web.controller.BeerControllerTest.xml
 /target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
 /target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+/target/generated-snippets/v1/beer/request-parameters.adoc
